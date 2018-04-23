@@ -1,7 +1,7 @@
 from imageTools import*
 
 
-ball = Picture("tennisball.jpg")
+ball = Picture("tennisball.jpg") #box
 box = Picture("rectangle.jpg")
 test = Picture("trial2.jpg")
 square = Picture("blacksquare.jpg")
